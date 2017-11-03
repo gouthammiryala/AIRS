@@ -1,0 +1,1 @@
+maxIteration: 20, regularisation parameter: 0.01 RMSE: NaN
